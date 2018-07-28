@@ -25,18 +25,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkg20001/js-libp2p-websocket-star-multi.git"
+    "url": "git+https://github.com/mmpmm/js-libp2p-websocket-star-multi.git"
   },
   "bugs": {
-    "url": "https://github.com/mkg20001/js-libp2p-websocket-star-multi/issues"
+    "url": "https://github.com/mmpmm/js-libp2p-websocket-star-multi/issues"
   },
-  "homepage": "https://github.com/mkg20001/js-libp2p-websocket-star-multi#readme",
+  "homepage": "https://github.com/mmpmm/js-libp2p-websocket-star-multi#readme",
   "dependencies": {
     "async": "^2.6.0",
     "debug": "^3.1.0",
     "libp2p-websocket-star": "^0.8.1",
     "mafmt": "^4.0.0",
-    "multiaddr": "^5.0.0",
+    "multiaddr": "^3.0.2",
     "once": "^1.4.0"
   },
   "devDependencies": {

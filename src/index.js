@@ -5,6 +5,7 @@ const log = debug('libp2p:websocket-star:multi')
 const once = require('once')
 
 const EE = require('events').EventEmitter
+      EE.prototype._maxListeners = 2000;
 const {
   map,
   parallel
